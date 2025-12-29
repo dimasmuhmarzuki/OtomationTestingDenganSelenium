@@ -1,4 +1,4 @@
-package com.paktikum.testing.otomation.pages;
+package com.praktikum.testing.otomation.pages;
 
 public class RegistrationPage_Buggy {
 }
